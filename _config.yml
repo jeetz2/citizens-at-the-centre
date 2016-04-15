@@ -36,7 +36,7 @@ navigation:
 - text: What is Citizens @ the Centre?
   internal: true
 - text: Why refresh now?
-  url: catc_what/
+  url: catc_why/
   internal: true
 - text: How Do We Put Citizens @ the Centre?
   url: catc_how/
