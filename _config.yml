@@ -33,9 +33,9 @@ expand_nav: true
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: What is Citizens @ the Centre?
   internal: true
-- text: What Is It About?
+- text: Why refresh now?
   url: catc_what/
   internal: true
 - text: How Do We Put Citizens @ the Centre?
@@ -44,14 +44,11 @@ navigation:
 - text: What Does This Mean for the Public Service?
   url: catc_meaning/
   internal: true
-- text: What Will You See Next?
+- text: What You Will See Next?
   url: catc_next/
   internal: true
-- text: How Was C@C Developed?
-  url: catc_howformed/
-  internal: true
-- text: About DMCTT
-  url: catc_about_dmctt/
+- text: FAQs
+  url: catc_faq/
   internal: true
 
 repos:
